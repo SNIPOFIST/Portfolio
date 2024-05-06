@@ -19,7 +19,7 @@ with col_1:
     pass
 
 with col_2:
-    st.title(":gray[Certifications]")
+    st.title(":gray[Hari Ram Selvaraj's Certifications]")
     st.write("")
     st.write("")
     st.write("")
@@ -59,17 +59,20 @@ with col_2:
     # Machine learning  
     st.caption(":green[Skills learnt] -  Random forest and logical regression algorithm, Algorithm bias detection,  ")
 
-    # Supervised Machine Learning   
+    # Supervised Machine Learning 
+    st.write("")
+    st.write("")  
     st.caption(":green[Skills learnt] -  Feature engineering, Data imputation and tailoring high effective datasets")
 
     # Numpy training  
+    st.write("")
     st.caption(":green[Skills learnt] -  Multi dimensional array operations, Data Manipulations")
 
+    st.write("")
     st.write("")
     # Learning data analytics 
     st.caption(":green[Skills learnt] -  Data interpretation, Data trimming, data visualisation techniques, Data selection  ")
 
-    st.write("")
     st.write("")
     # Introduction to career in data analytics automation 
     st.caption(":green[Skills learnt] -  Data analysis, Data Visualisation ")
@@ -79,7 +82,8 @@ with col_2:
     # Python for automation 
     st.caption(":green[Skills learnt] -  Automation tools - scrapy, beautifulsoup, requests HTTP methods, and automation techniques")   
     
-    # Web scraping    
+    # Web scraping 
+    st.write("")  
     st.caption(":green[Skills learnt] - API architecture, Response code validation ")
     
     st.write("")
@@ -87,6 +91,7 @@ with col_2:
     st.caption(":green[Skills learnt] - Axes method, Data crawling, Web mining , DOM text mining, Browser Automation")
 
     # Jmeter
+    st.write("")
     st.caption(":green[Skills learnt] -  creation and execution of threads, Dahboard conversion of recieved responses")
 
 
