@@ -33,6 +33,8 @@ st.write("")
 col_1, col_2  = st.columns(2)
 
 with col_1:
+    st.markdown("* _Data Science - Virtual Internship; Forage - [Link](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_k4iF964Nsi9baSiqL_1706565723144_completion_certificate.pdf)_")
+    st.write("")
     st.markdown("* _Machine learning with Python foundations - [Link](https://www.linkedin.com/learning/certificates/958effb68d60d8eb7d5aed777329ce29b2fcb8dee96ae79493a81c4963deccd5)_")
     st.write("")
     st.markdown(" * _Supervised Learning essential training - [Link](https://www.linkedin.com/learning/certificates/887a8df68b0b7cacef02b424cc414a1411cf7e4ffd28af09207d3e5dd9b06742)_")
