@@ -59,7 +59,10 @@ with col_2:
     
 
     # Machine learning  
-    st.caption(":green[Skills learnt] -  Random forest and logical regression algorithm, Algorithm bias detection,  ")
+    st.caption(":green[Skills learnt] -   Word Cloud, web crawling, modelling and evaluation customer business satisfaction")
+    st.write("")
+    st.write("")
+    st.caption(":green[Skills learnt] -  Random forest and logical regression algorithm, Algorithm bias detection. ")
 
     # Supervised Machine Learning 
     st.write("")
