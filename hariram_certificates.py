@@ -78,10 +78,11 @@ with col_2:
     # Learning data analytics 
     st.caption(":green[Skills learnt] -  Data interpretation, Data trimming, data visualisation techniques, Data selection  ")
 
-    st.write("")
+    
     # Introduction to career in data analytics automation 
     st.caption(":green[Skills learnt] -  Data analysis, Data Visualisation ")
 
+    st.write("")
     st.write("")
     st.write("")
     # Python for automation 
