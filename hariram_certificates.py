@@ -74,11 +74,10 @@ with col_2:
     st.caption(":green[Skills learnt] -  Multi dimensional array operations, Data Manipulations")
 
     st.write("")
-    st.write("")
     # Learning data analytics 
     st.caption(":green[Skills learnt] -  Data interpretation, Data trimming, data visualisation techniques, Data selection  ")
 
-    
+    st.write("")
     # Introduction to career in data analytics automation 
     st.caption(":green[Skills learnt] -  Data analysis, Data Visualisation ")
 
